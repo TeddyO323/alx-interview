@@ -1,5 +1,10 @@
 # 0x00. Pascal's Triangle
 
+**Project Score:** 100%
+
+Feel free to share your thoughts and experiences with the project. If you have any feedback or questions, please let me know! Your engagement and feedback are highly appreciated.
+
+
 ## Algorithm
 **Language:** Python
 
