@@ -51,7 +51,6 @@ False
 ```
 
 **Repo:**
-- GitHub repository: [alx-interview](https://github.com/your-username/alx-interview)
-- Directory: 0x01-lockboxes
-- File: 0-lockboxes.py
-```
+- GitHub repository: `alx-interview`
+- Directory: `0x01-lockboxes`
+- File: `0-lockboxes.py`
