@@ -27,7 +27,7 @@ For the “0x03. Log Parsing” project, you will need to apply your knowledge o
 By studying these concepts and utilizing the resources provided, you will be well-prepared to tackle the log parsing project, effectively handling data streams, parsing log entries, and computing metrics based on the processed data.
 
 ## Additional Resources
-- [Mock Technical Interview](https://alx-interview.com)
+- [Mock Technical Interview](https://www.youtube.com/watch?v=5dRTK-_Bzd0)
 
 ## Requirements
 ### General
