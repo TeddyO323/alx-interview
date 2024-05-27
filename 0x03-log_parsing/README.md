@@ -55,8 +55,8 @@ After every 10 lines and/or a keyboard interruption (CTRL + C), print these stat
 Refer to the sample output provided in the project description for reference.
 
 ## Repo
-- GitHub repository: [alx-interview](https://github.com/alx-interview)
-- Directory: 0x03-log_parsing
-- File: 0-stats.py
+- GitHub repository: `alx-interview`
+- Directory: `0x03-log_parsing`
+- File: `0-stats.py`
 
 
