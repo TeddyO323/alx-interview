@@ -58,6 +58,5 @@ Refer to the sample output provided in the project description for reference.
 - GitHub repository: [alx-interview](https://github.com/alx-interview)
 - Directory: 0x03-log_parsing
 - File: 0-stats.py
-```
 
-You can copy and paste this content directly into your README.md file on GitHub. Let me know if there's anything else you need!
+
